@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Java, Spring Framework, React, Next**
 
-- 📫 How to reach me **erendibek576@gmail.com**
+- 📫 How to reach me ![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 
 - 📄 Know about my experiences [My Resume](https://www.linkedin.com/in/muhammed-eren-dibek/overlay/1708507104806/single-media-viewer/?profileId=ACoAADXg3RkBMQeA3M1VjeghYc77vNkgCO23Zkg)
 
