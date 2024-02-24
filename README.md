@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Next**
 
-- 👨‍💻 All of my projects are available at [https://erendibek576.github.io/](https://erendibek576.github.io/)
+- 👨‍💻 All of my projects are available at [erendibek576](https://erendibek576.github.io/)
 
 - 💬 Ask me about **Java, Spring Framework, React, Next**
 
