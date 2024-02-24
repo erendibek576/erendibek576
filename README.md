@@ -34,7 +34,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erendibek576&theme=dark)
 
 ### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=erendibek576&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=erendibek576&theme=dark&no-frame=true&no-bg=false&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=erendibek576&limit=5&theme=dark&combine_all_yearly_contributions=true)
