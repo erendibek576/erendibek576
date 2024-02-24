@@ -1,4 +1,4 @@
-<h2 align="center">Hi👋, Muhammed Eren Dibek</h2>
+<h2 align="center">Hi👋, Muhammed Eren Dibek. Welcome to Github My Profile!</h2>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Lifetime%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=2980b9&vCenter=true&size=22" /></p>
 <h3 align="center">Proficient in High-Level Communication, Delivering Quality Results, Strong Problem-Solving, Critical Thinking, and Efficient Time Management Skills.</h3>
 
