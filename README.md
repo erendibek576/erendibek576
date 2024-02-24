@@ -1,7 +1,8 @@
 <img src="https://github.com/erendibek576/erendibek576/blob/main/profile-banner.png" alt= "Profile Banner" />
 
 <h2 align="left">Full Stack Developer 👋 Muhammed Eren Dibek</h2>
-<h3 align="left">2+ years of experience as a results-oriented Full Stack Java Developer with experience developing school management system project using Java, React, Spring Boot and related technologies. Experienced in SQL, NoSQL, JPA/Hibernate, Rest API, HTML, CSS, Bootstrap 5, JavaScript, SASS, React, Docker, AWS, Microservices and Unit Testing. Experienced in Agile methodologies such as Scrum and Kanban and Jira project tool management. I have high communication skills, obtaining quality results, strong problem solving, critical thinking and efficient time management skills.</h3>
+<h3 align="left">
+I have high communication skills, obtaining quality results, strong problem-solving, critical thinking, and efficient time management skills.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erendibek576&label=Profile%20views&color=0e75b6&style=flat" alt="erendibek576" /> </p>
 
