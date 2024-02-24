@@ -5,6 +5,8 @@
 
 ---
 
+<h3 align="left">ℹ️ About Me</h3>
+
 - 🔭 I’m currently working on [School Management System Application](https://github.com/erendibek576/SchoolManagementSystem)
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Next**
@@ -17,7 +19,7 @@
 
   
 ---
-<h3 align="left">🔗 Connect with me:</h3>
+<h3 align="left">🔗 Connect With Me</h3>
 
 ![CodePen](https://img.shields.io/badge/CodePen-1769ff?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/muhammed_dibek)
 ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/muhammed-eren-dibek)
@@ -27,7 +29,7 @@
 
 
 ---
-<h3 align="left">🛠️ Languages and Tools:</h3>
+<h3 align="left">🛠️ Languages and Tools</h3>
 
 ![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap)
