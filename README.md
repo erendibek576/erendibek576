@@ -17,13 +17,13 @@
   
 ---
 <h3 align="left">🔗 Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/muhammed_dibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="muhammed_dibek" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/muhammed-eren-dibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-eren-dibek" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/eren-dibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eren-dibek" height="30" width="40" /></a>
-<a href="https://kaggle.com/erendibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erendibek" height="30" width="40" /></a>
-<a href="https://instagram.com/dibek_57" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibek_57" height="30" width="40" /></a>
-</p>
+
+![CodePen](https://img.shields.io/badge/CodePen-1769ff?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/muhammed_dibek)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/muhammed-eren-dibek)
+![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-fe7a16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/eren-dibek)
+![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white&link=https://kaggle.com/erendibek)
+![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/dibek_57)
+
 
 ---
 <h3 align="left">🛠️ Languages and Tools:</h3>
