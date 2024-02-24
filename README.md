@@ -41,6 +41,8 @@
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=erendibek576&theme=dark)
 
+---
+
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=erendibek576&theme=discord&no-frame=true&no-bg=false&margin-w=4)
 
