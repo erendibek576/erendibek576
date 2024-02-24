@@ -22,7 +22,7 @@
 <a href="https://linkedin.com/in/muhammed-eren-dibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="muhammed-eren-dibek" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/eren-dibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="eren-dibek" height="30" width="40" /></a>
 <a href="https://kaggle.com/erendibek" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="erendibek" height="30" width="40" /></a>
-<a href="https://instagram.com/dibek_57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibek_57" height="30" width="40" /></a>
+<a href="https://instagram.com/dibek_57" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dibek_57" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
