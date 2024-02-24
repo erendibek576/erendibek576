@@ -3,8 +3,6 @@
 <h2 align="left">Full Stack Developer 👋 Muhammed Eren Dibek</h2>
 <h3 align="left">Proficient in High-Level Communication, Delivering Quality Results, Strong Problem-Solving, Critical Thinking, and Efficient Time Management Skills.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=erendibek576&label=Profile%20views&color=0e75b6&style=flat" alt="erendibek576" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erendibek576" alt="erendibek576" /></a> </p>
 
 - 🔭 I’m currently working on [School Management System Application](https://github.com/erendibek576/SchoolManagementSystem)
