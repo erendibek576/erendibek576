@@ -37,5 +37,6 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erendibek576&label=visitors&color=0e75b6&style=flat" alt="erendibek576" /> </p>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=erendibek576.erendibek576)
+<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=erendibek576.erendibek576" alt="erendibek576" /> </p>
+
 
