@@ -1,7 +1,9 @@
-![](https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Lifetime%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=2980b9&vCenter=true&size=22)
+
 <img src="https://github.com/erendibek576/erendibek576/blob/main/profile-banner.png" alt= "Profile Banner" />
 
 <h2 align="left">Full Stack Developer 👋 Muhammed Eren Dibek</h2>
+<a href="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Lifetime%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=2980b9&vCenter=true&size=22" />
+![](https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Lifetime%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=2980b9&vCenter=true&size=22)
 <h3 align="left">Proficient in High-Level Communication, Delivering Quality Results, Strong Problem-Solving, Critical Thinking, and Efficient Time Management Skills.</h3>
 
 - 🔭 I’m currently working on [School Management System Application](https://github.com/erendibek576/SchoolManagementSystem)
