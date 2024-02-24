@@ -3,8 +3,6 @@
 <h2 align="left">Full Stack Developer 👋 Muhammed Eren Dibek</h2>
 <h3 align="left">Proficient in High-Level Communication, Delivering Quality Results, Strong Problem-Solving, Critical Thinking, and Efficient Time Management Skills.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erendibek576" alt="erendibek576" /></a> </p>
-
 - 🔭 I’m currently working on [School Management System Application](https://github.com/erendibek576/SchoolManagementSystem)
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Next**
@@ -35,7 +33,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erendibek576&" alt="erendibek576" /></p>
 
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=erendibek576&theme=radical&no-frame=true&no-bg=false&margin-w=4)
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=erendibek576&limit=5&theme=dark&combine_all_yearly_contributions=true)
 ---
-<p align="left"> <img src="https://visitor-badge.laobi.icu/badge?page_id=erendibek576.erendibek576" alt="erendibek576" /> </p>
+![](https://visitor-badge.laobi.icu/badge?page_id=erendibek576.erendibek576)
 
 
