@@ -29,7 +29,7 @@
 <h3 align="left">🛠️ Languages and Tools:</h3>
 <p align="left">
     <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-        <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS"/>
+        <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=Amazon-AWS&logoColor=white"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap" alt="Bootstrap"/>
