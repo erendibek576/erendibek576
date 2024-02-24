@@ -5,6 +5,8 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erendibek576" alt="erendibek576" /></a> </p>
 
+- 🔭 I’m currently working on [School Management System Application](https://github.com/erendibek576/SchoolManagementSystem)
+
 - 🌱 I’m currently learning **Java, Spring Framework, React, Next**
 
 - 👨‍💻 All of my projects are available at [https://erendibek576.github.io/](https://erendibek576.github.io/)
@@ -12,6 +14,8 @@
 - 💬 Ask me about **Java, Spring Framework, React, Next**
 
 - 📫 How to reach me **erendibek576@gmail.com**
+
+- 📄 Know about my experiences [https://www.linkedin.com/in/muhammed-eren-dibek/overlay/1708507104806/single-media-viewer/?profileId=ACoAADXg3RkBMQeA3M1VjeghYc77vNkgCO23Zkg](https://www.linkedin.com/in/muhammed-eren-dibek/overlay/1708507104806/single-media-viewer/?profileId=ACoAADXg3RkBMQeA3M1VjeghYc77vNkgCO23Zkg)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
