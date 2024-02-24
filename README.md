@@ -1,4 +1,5 @@
 <h2 align="center">Hi👋, Muhammed Eren Dibek. Welcome to Github My Profile!</h2>
+![](https://visitor-badge.laobi.icu/badge?page_id=erendibek576.erendibek576)
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Lifetime%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=2980b9&vCenter=true&size=22" /></p>
 
 ---
@@ -45,7 +46,7 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=erendibek576&limit=5&theme=dark&combine_all_yearly_contributions=true)
----
-![](https://visitor-badge.laobi.icu/badge?page_id=erendibek576.erendibek576)
+
+
 
 
