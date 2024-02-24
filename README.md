@@ -3,8 +3,8 @@
 
 
 
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Lifetime%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=2980b9&vCenter=true&size=22" alt="" /></p>
-<h2 align="left">Full Stack Developer 👋 Muhammed Eren Dibek</h2>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Lifetime%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=2980b9&vCenter=true&size=22" alt="" /><h2 align="left">👋 Muhammed Eren Dibek</h2></p>
+
 
 
 
