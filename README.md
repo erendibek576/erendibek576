@@ -1,6 +1,6 @@
 <h2 align="center">Hi👋, Muhammed Eren Dibek. Welcome to Github My Profile!</h2>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full%20Stack%20Web%20Developer;Lifetime%20Learner&font=Fira%20Code&center=true&width=440&height=45&color=2980b9&vCenter=true&size=22" /></p>
-
+---
 - 🔭 I’m currently working on [School Management System Application](https://github.com/erendibek576/SchoolManagementSystem)
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Next**
