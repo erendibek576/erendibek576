@@ -5,7 +5,7 @@
 
 ---
 
-<h3 align="left">ℹ About Me</h3>
+<h3 align="left">ℹ️ About Me</h3>
 
 - 🔭 I’m currently working on [School Management System Application](https://github.com/erendibek576/SchoolManagementSystem)
 
