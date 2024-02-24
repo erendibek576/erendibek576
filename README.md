@@ -34,3 +34,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erendibek576&show_icons=true&locale=en" alt="erendibek576" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=erendibek576&" alt="erendibek576" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=erendibek576&label=Profile%20views&color=0e75b6&style=flat" alt="erendibek576" /> </p>
