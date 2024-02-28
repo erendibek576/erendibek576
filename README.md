@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Next**
 
-- 👨‍💻 All of my projects are available at   [![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://erendibek576.github.io/)  
+- 👨‍💻 All of my projects are available at [[Portfolio](https://erendibek576.github.io/)  ]
 
 - 💬 Ask me about **Java, Spring Framework, React, Next**
 
