@@ -21,10 +21,12 @@
 <h3 align="left">🔗 Connect With Me</h3>
 
 [![CodePen](https://img.shields.io/badge/CodePen-1769ff?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/muhammed_dibek)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-eren-dibek)
-[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-fe7a16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/eren-dibek)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/erendibek)
 [![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dibek_57)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/erendibek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-eren-dibek)
+[![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)](https://app.netlify.com/teams/erendibek576)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-fe7a16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/eren-dibek)
+[![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)](https://vercel.com/muhammed-eren-dibeks-projects)
 
 ---
 <h3 align="left">🛠️ Languages and Tools</h3>
