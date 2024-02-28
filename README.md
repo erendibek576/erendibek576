@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Next**
 
-- 👨‍💻 All of my projects are available at [Portfolio](https://erendibek576.github.io/)
+- 👨‍💻 All of my projects are available at [My Portfolio Website](https://erendibek576.github.io/)
 
 - 💬 Ask me about **Java, Spring Framework, React, Next**
 
