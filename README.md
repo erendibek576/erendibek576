@@ -17,7 +17,6 @@
 
 - 📫 How to reach me **erendibek576@gmail.com**
 
-  
 ---
 <h3 align="left">🔗 Connect With Me</h3>
 
