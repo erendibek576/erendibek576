@@ -56,6 +56,10 @@
 [![Spring](https://img.shields.io/badge/-Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/)
 [![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=for-the-badge&logo=webpack&logoColor=black)](https://webpack.js.org/)
 
+<h3 align="left">IDEs/Editors</h3>
+
+[![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)](https://www.eclipse.org/)
+
 ---
 ### 🏆 Profile Statics
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=erendibek576&theme=dark&show_icons=true&locale=en&layout=compact)
