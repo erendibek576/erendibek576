@@ -21,11 +21,12 @@
 ---
 <h3 align="left">🔗 Connect With Me</h3>
 
-![CodePen](https://img.shields.io/badge/CodePen-1769ff?style=for-the-badge&logo=codepen&logoColor=white&link=https://codepen.io/muhammed_dibek)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://linkedin.com/in/muhammed-eren-dibek)
-![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-fe7a16?style=for-the-badge&logo=stackoverflow&logoColor=white&link=https://stackoverflow.com/users/eren-dibek)
-![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white&link=https://kaggle.com/erendibek)
-![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white&link=https://instagram.com/dibek_57)
+[![CodePen](https://img.shields.io/badge/CodePen-1769ff?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/muhammed_dibek)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammed-eren-dibek)
+[![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-fe7a16?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/eren-dibek)
+[![Kaggle](https://img.shields.io/badge/Kaggle-20beff?style=for-the-badge&logo=kaggle&logoColor=white)](https://kaggle.com/erendibek)
+[![Instagram](https://img.shields.io/badge/Instagram-e4405f?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/dibek_57)
+
 
 
 ---
