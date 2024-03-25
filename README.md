@@ -7,7 +7,7 @@
 
 <h3 align="left">ℹ️ About Me</h3>
 
-- 🔭 I’m currently working on [School Management System Application](https://github.com/erendibek576/SchoolManagementSystem)
+- 🔭 I’m currently working on [Student Management System Application](https://edvance-student-management-system.vercel.app/)
 
 - 🌱 I’m currently learning **Java, Spring Framework, React, Next**
 
